@@ -11,7 +11,7 @@
     $mail->IsHTML(true);
 
     // Ot kogo pisma
-    $mail->setFrom('info@gmail.com', 'Kakoito chel');
+    $mail->setFrom('notalonew9@gmail.com', 'wearenotalone');
     // Komu otpravit
     $mail->addAddress('notalonew9@gmail.com');
     // Tema pisma
